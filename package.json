@@ -1,0 +1,22 @@
+{
+  "name": "angular-redux-inspired-example",
+  "version": "0.0.1",
+  "description": "An example of Redux inspired approach to building of Angular applications",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgula/angular-redux-inspired-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexgula/angular-redux-inspired-example/issues"
+  },
+  "homepage": "https://github.com/alexgula/angular-redux-inspired-example#readme"
+}
